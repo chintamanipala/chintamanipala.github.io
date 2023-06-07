@@ -1,9 +1,9 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Chat bot",
+    "desc": "Chat bot is a web Bot Which help answer a specific questions",
     "image": "chatbot",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/jigar-sable/notystack-android"
