@@ -8,5 +8,15 @@
       "view": "https://chintamani-pala.github.io/chatbot-by-chintamani",
       "code": "https://github.com/chintamani-pala/chatbot-by-chintamani"
     }
+  },
+  {
+    "name": "Analog Clock",
+    "desc": "Simple Analog Clock With fully Responsive",
+    "image": "analogclock",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chintamani-pala.github.io/analogClock/",
+      "code": "https://github.com/chintamani-pala/analogClock"
+    }
   }
 ]
