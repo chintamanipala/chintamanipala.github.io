@@ -19,4 +19,14 @@
       "code": "https://github.com/chintamani-pala/analogClock"
     }
   }
+  {
+    "name": "Password Generator",
+    "desc": "A Simple Password Generator Using HTML,CSS,JS with a some Features",
+    "image": "passwordGenerator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chintamani-pala.github.io/analogClock/",
+      "code": "https://github.com/chintamani-pala/password-generator"
+    }
+  }
 ]
