@@ -48,5 +48,15 @@
       "view": "weather-app-using-html-css-js.vercel.app",
       "code": "https://github.com/chintamani-pala/weather-app-using-html-css-js"
     }
+  },
+  {
+    "name": "Tic Tac Toe Game",
+    "desc": "A Tic Tac Toe Game using HTML,CSS,Javascript",
+    "image": "tictactoe",
+    "category": "basicweb",
+    "links": {
+      "view": "https://tic-tac-toe-game-using-html-css-js.vercel.app/",
+      "code": "https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS"
+    }
   }
 ]
