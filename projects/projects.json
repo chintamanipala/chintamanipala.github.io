@@ -1,5 +1,35 @@
 [
   {
+    "name": "Music Player ",
+    "desc": "A Simple Music player website Using HTML,CSS,JS with a some Features",
+    "image": "musicWebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://music-website-chintamanipala.vercel.app/",
+      "code": "https://github.com/chintamani-pala/Music-Website"
+    }
+  },
+  {
+    "name": "Weather Viewer",
+    "desc": "A Simple Weather Viewer",
+    "image": "weatherViewer",
+    "category": "basicweb",
+    "links": {
+      "view": "weather-app-using-html-css-js.vercel.app",
+      "code": "https://github.com/chintamani-pala/weather-app-using-html-css-js"
+    }
+  },
+  {
+    "name": "Tic Tac Toe Game",
+    "desc": "A Tic Tac Toe Game using HTML,CSS,Javascript",
+    "image": "tictactoe",
+    "category": "basicweb",
+    "links": {
+      "view": "https://tic-tac-toe-game-using-html-css-js.vercel.app/",
+      "code": "https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS"
+    }
+  },
+  {
     "name": "Chat bot",
     "desc": "Chat bot is a web Bot Which help answer a specific questions",
     "image": "chatbot",
@@ -37,36 +67,6 @@
     "links": {
       "view": "https://chintamani-pala.github.io/password-generator/",
       "code": "https://github.com/chintamani-pala/password-generator"
-    }
-  },
-  {
-    "name": "Music Player ",
-    "desc": "A Simple Music player website Using HTML,CSS,JS with a some Features",
-    "image": "musicWebsite",
-    "category": "basicweb",
-    "links": {
-      "view": "https://music-website-chintamanipala.vercel.app/",
-      "code": "https://github.com/chintamani-pala/Music-Website"
-    }
-  },
-  {
-    "name": "Weather Viewer",
-    "desc": "A Simple Weather Viewer",
-    "image": "weatherViewer",
-    "category": "basicweb",
-    "links": {
-      "view": "weather-app-using-html-css-js.vercel.app",
-      "code": "https://github.com/chintamani-pala/weather-app-using-html-css-js"
-    }
-  },
-  {
-    "name": "Tic Tac Toe Game",
-    "desc": "A Tic Tac Toe Game using HTML,CSS,Javascript",
-    "image": "tictactoe",
-    "category": "basicweb",
-    "links": {
-      "view": "https://tic-tac-toe-game-using-html-css-js.vercel.app/",
-      "code": "https://github.com/chintamani-pala/tic-tac-toe-Game-using-HTML-CSS-JS"
     }
   }
 ]
