@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "Quiz Game",
+    "desc": "Quiz game using HTML,CSS,Javascript",
+    "image": "Quizgame",
+    "category": "basicweb",
+    "links": {
+      "view": "https://quiz-game-using-html-css-js.vercel.app/",
+      "code": "https://github.com/chintamani-pala/Quiz-Game-using-HTML-CSS-JS"
+    }
+  },
+  {
     "name": "Password Generator",
     "desc": "A Simple Password Generator Using HTML,CSS,JS with a some Features",
     "image": "passwordGenerator",
