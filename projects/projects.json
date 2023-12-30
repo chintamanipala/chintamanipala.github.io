@@ -38,5 +38,15 @@
       "view": "https://music-website-chintamanipala.vercel.app/",
       "code": "https://github.com/chintamani-pala/Music-Website"
     }
+  },
+  {
+    "name": "Weather Viewer",
+    "desc": "A Simple Weather Viewer",
+    "image": "musicWebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "weather-app-using-html-css-js.vercel.app",
+      "code": "https://github.com/chintamani-pala/weather-app-using-html-css-js"
+    }
   }
 ]
