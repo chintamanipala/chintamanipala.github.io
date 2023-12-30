@@ -42,7 +42,7 @@
   {
     "name": "Weather Viewer",
     "desc": "A Simple Weather Viewer",
-    "image": "musicWebsite",
+    "image": "weatherViewer",
     "category": "basicweb",
     "links": {
       "view": "weather-app-using-html-css-js.vercel.app",
